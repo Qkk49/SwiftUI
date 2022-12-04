@@ -1,10 +1,3 @@
-//
-//  Book views.swift
-//  ReadMe
-//
-//  Created by Павел Клымко on 02.12.22.
-//
-
 import SwiftUI
 
 struct TitleAndAuthorStack: View {

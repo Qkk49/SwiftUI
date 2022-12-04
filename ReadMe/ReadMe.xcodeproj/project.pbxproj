@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A0BC3E5293BA284002AE3D5 /* NewBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0BC3E4293BA284002AE3D5 /* NewBookView.swift */; };
+		8A0BC3E7293BA435002AE3D5 /* ReviewAndImageStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0BC3E6293BA435002AE3D5 /* ReviewAndImageStack.swift */; };
 		8A0DEAED293A6608004C5B24 /* ReadMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0DEAEC293A6608004C5B24 /* ReadMeApp.swift */; };
 		8A0DEAEF293A6608004C5B24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0DEAEE293A6608004C5B24 /* ContentView.swift */; };
 		8A0DEAF1293A660A004C5B24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A0DEAF0293A660A004C5B24 /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A0BC3E4293BA284002AE3D5 /* NewBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBookView.swift; sourceTree = "<group>"; };
+		8A0BC3E6293BA435002AE3D5 /* ReviewAndImageStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewAndImageStack.swift; sourceTree = "<group>"; };
 		8A0DEAE9293A6608004C5B24 /* ReadMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReadMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A0DEAEC293A6608004C5B24 /* ReadMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadMeApp.swift; sourceTree = "<group>"; };
 		8A0DEAEE293A6608004C5B24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -84,7 +88,9 @@
 			children = (
 				8A0DEAEE293A6608004C5B24 /* ContentView.swift */,
 				8A0DEAFD293A76AE004C5B24 /* Book views.swift */,
+				8A0BC3E4293BA284002AE3D5 /* NewBookView.swift */,
 				8A0DEB01293A851B004C5B24 /* DetailView.swift */,
+				8A0BC3E6293BA435002AE3D5 /* ReviewAndImageStack.swift */,
 				8A0DEB03293A9407004C5B24 /* PHPickerViewController.View.swift */,
 			);
 			path = Views;
@@ -164,8 +170,10 @@
 				8A0DEB02293A851B004C5B24 /* DetailView.swift in Sources */,
 				8A0DEAEF293A6608004C5B24 /* ContentView.swift in Sources */,
 				8A0DEB00293A82F3004C5B24 /* Library.swift in Sources */,
+				8A0BC3E5293BA284002AE3D5 /* NewBookView.swift in Sources */,
 				8A0DEB04293A9407004C5B24 /* PHPickerViewController.View.swift in Sources */,
 				8A0DEAED293A6608004C5B24 /* ReadMeApp.swift in Sources */,
+				8A0BC3E7293BA435002AE3D5 /* ReviewAndImageStack.swift in Sources */,
 				8A0DEAFB293A7535004C5B24 /* Book.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
